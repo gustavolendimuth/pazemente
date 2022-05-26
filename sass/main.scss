@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@300;400;700&display=swap');
+
+//Default variables
+$primary: #2fb6a0;
+$font-family-sans-serif: 'Palanquin', sans-serif;
+$nav-link-font-size: 0.85rem;
+$nav-link-font-weight: 700;
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+// My own map
+// $custom-colors: (
+//   "custom-color": #900
+// );
+
+// Merge the maps
+// $theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import '../node_modules/bootstrap/scss/bootstrap';
