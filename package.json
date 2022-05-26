@@ -1,0 +1,23 @@
+{
+  "name": "pazemente",
+  "version": "1.0.0",
+  "description": "Website do pazemente.com.br",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavolendimuth/pazemente.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Lendimuth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavolendimuth/pazemente/issues"
+  },
+  "homepage": "https://github.com/gustavolendimuth/pazemente#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
