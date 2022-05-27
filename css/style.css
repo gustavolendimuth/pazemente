@@ -37,6 +37,11 @@
   height: 200px;
 }
 
+.hero-buttons {
+  /* height: 5rem; */
+  margin-top: 30px;
+}
+
 .note {
   padding: 1rem;
 }

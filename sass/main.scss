@@ -13,7 +13,11 @@ $container-max-widths: (
 );
 
 $input-btn-font-family: Verdana, sans-serif;
-$input-btn-font-size: 1rem;
+$input-btn-font-size: .9rem;
+$input-btn-padding-y: .5rem;
+$input-btn-padding-x: 1.5rem;
+
+$enable-shadows: true;
 
 $secondary:     #fe743e;
 
