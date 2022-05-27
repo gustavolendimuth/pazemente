@@ -1,3 +1,9 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -19,3 +25,25 @@
 .nav-link-spacing {
   letter-spacing: 1px;
 }
+
+.hero {
+  background: linear-gradient(rgb(0, 40, 45), rgba(0, 40, 45, 0)), url(/images/banner-paz-e-mente.jpeg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.hero .container-hero {
+  height: 200px;
+}
+
+.note {
+  padding: 1rem;
+}
+
+.text-banner {
+  display: flex;
+  align-items: center;
+}
+
+/* background: url(https://images.squarespace-cdn.com/content/v1/5c03fc8…/1631817390527-9BZEGKIRIGZJ907AEXOS/selos.png?format=300w) no-repeat; */

@@ -1,10 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,900&display=swap');
 
 //Default variables
 $primary: #2fb6a0;
-$font-family-sans-serif: 'Palanquin', sans-serif;
-$nav-link-font-size: 0.85rem;
-$nav-link-font-weight: 700;
+// $font-family-sans-serif: 'Palanquin', sans-serif;
+$font-family-sans-serif: 'Raleway', sans-serif;
+
+$nav-link-font-size: 0.82rem;
+$nav-link-font-weight: 600;
+
+$container-max-widths: (
+  xxl: 1500px
+);
+
+$input-btn-font-family: Verdana, sans-serif;
+$input-btn-font-size: 1rem;
+
+$secondary:     #fe743e;
 
 @import "../node_modules/bootstrap/scss/functions";
 @import "../node_modules/bootstrap/scss/variables";
