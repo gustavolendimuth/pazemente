@@ -1,29 +1,18 @@
-/* * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-} */
-
-.bd-placeholder-img {
-  font-size: 1.125rem;
-  text-anchor: middle;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  user-select: none;
-}
+/* CSS personalizado */
 
 @media (min-width: 768px) {
-  .bd-placeholder-img-lg {
-    font-size: 3.5rem;
-  }
+.navbar-brand.abs
+    {
+        position: absolute;
+        width: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
 }
 
 .pazemente-logo {
   max-width: 240px;
-}
-
-.nav-link-spacing {
-  letter-spacing: 1px;
 }
 
 .hero {
@@ -49,6 +38,14 @@
 .text-banner {
   display: flex;
   align-items: center;
+}
+
+.selo-mec {
+  height: 200px;
+}
+
+.logo-unesco {
+  height: 338px;
 }
 
 /* background: url(https://images.squarespace-cdn.com/content/v1/5c03fc8…/1631817390527-9BZEGKIRIGZJ907AEXOS/selos.png?format=300w) no-repeat; */
