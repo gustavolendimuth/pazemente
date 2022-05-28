@@ -16,7 +16,7 @@
 }
 
 .hero {
-  background: linear-gradient(rgb(0, 40, 45), rgba(0, 40, 45, 0)), url(/images/banner-paz-e-mente.jpeg);
+  background: linear-gradient(rgb(0, 40, 45), rgba(0, 40, 45, 0)), url(./images/banner-paz-e-mente.jpeg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
