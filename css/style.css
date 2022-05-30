@@ -1,16 +1,4 @@
 /* CSS personalizado */
-
-@media (min-width: 768px) {
-.navbar-brand.abs
-    {
-        position: absolute;
-        width: auto;
-        left: 50%;
-        transform: translateX(-50%);
-        text-align: center;
-    }
-}
-
 .pazemente-logo {
   max-width: 240px;
 }
@@ -41,16 +29,14 @@
 }
 
 .selo-mec {
-  height: 200px;
+  max-height: 200px;
 }
 
 .logo-unesco {
-  height: 338px;
+  max-height: 300px;
 }
 
-.hamburguer {
-  height: 65px;
-  width: 65px;
+.agentes {
+  max-height: 10rem;
 }
-
 /* background: url(https://images.squarespace-cdn.com/content/v1/5c03fc8…/1631817390527-9BZEGKIRIGZJ907AEXOS/selos.png?format=300w) no-repeat; */
